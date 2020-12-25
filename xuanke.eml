@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/xuanke"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 8.5.51" scope="PROVIDED"/>
+	<levels>
+		<level name="Tomcat 8.5.51" value="application_server_libraries"/>
+		<level name="ssm" value="project"/>
+	</levels>
+</component>
